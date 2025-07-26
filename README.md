@@ -1,5 +1,6 @@
 # Stock-Price-trend-Analysis
 Stock Price Trend Analysis
+Dashboard ---- https://public.tableau.com/app/profile/harshdeep.singh5643/viz/StockPrice_17535118330020/Dashboard1
 Overview
 This project analyzes historical stock price data for five major companies (Apple, JPMorgan Chase, Microsoft, Amazon, Tesla) to identify price trends and volatility patterns. Using Python (Pandas, Matplotlib), the analysis includes visualizations of 30-day moving averages and daily returns, supporting data-driven financial insights. The project is developed in a Jupyter Notebook and leverages data from Yahoo Finance via the yfinance library. (In Progress, Expected Completion: August 2025)
 Objectives
